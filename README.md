@@ -10,7 +10,7 @@ I love a good conversation and an unforgettable tour.
 
 
  ## About me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/correiarafaelsilva/(https://www.linkedin.com/in/correiarafaelsilva/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/correiarafaelsilva/)](https://www.linkedin.com/in/correiarafaelsilva/)
 
 ## Languages:
 [![Correiarafael GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=correiarafael)](https://github.com/correiarafael/github-readme-stats)
