@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello World 👋 I'm Rafael! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blog/master/Assets/blob/master/Assets/Earth.gif width="30">
 
-<!--
-**correiarafael/correiarafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:memo I am Rafael student of analysis and development in career transition.
+I'm loving learning new technologies.
+I'm finding out where I fit in this new world!
+I like to read about everything, be up to date.
+I love a good conversation and an unforgettable tour.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ ## About me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/correiarafaelsilva/)(https://www.linkedin.com/in/correiarafaelsilva/)
+
+## Languages:
+[![Correiarafael GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=correiarafael)](https://github.com/correiarafael/github-readme-stats)
+
+
+- Enjoy it!!
