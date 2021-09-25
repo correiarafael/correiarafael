@@ -1,5 +1,4 @@
-### Hello World 👋 I'm Rafael! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blog/master/Assets/blob/master/Assets/Earth.gif width="30">
-
+### Hello World 👋 I'm Rafael!
 
 :memo I am Rafael student of analysis and development in career transition.
 I'm loving learning new technologies.
